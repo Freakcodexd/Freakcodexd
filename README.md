@@ -1,6 +1,6 @@
 ### It's me, Freak 👋
 
-<img src="https://komarev.com/ghpvc/?username=Freakcodexrd&label=Profile%20Viewers&color=37fa3f" alt="Freakcodexrd" />
+<img src="https://komarev.com/ghpvc/?username=Freakcodexd&label=Profile%20Viewers&color=37fa3f" alt="Freakcodexd" />
 
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
@@ -9,5 +9,5 @@ One day I started learning software as an enthusiast, and for as long as I can r
 
 <a href="https://github.com/Freakcodexd">
   <img src="https://github-readme-stats.vercel.app/api?username=Freakcodexd&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=df761c&text_color=FFFFFF&icon_color=df761c">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freakcodexd&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
+<img src="">
 </a>
