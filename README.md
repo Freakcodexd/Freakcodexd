@@ -2,8 +2,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Freakcodexrd&label=Profile%20Viewers&color=37fa3f" alt="Freakcodexrd" />
 
-[![Discord Presence]()](https://discord.com/users/853009887318769704)
-
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/cagatayegeee/)
