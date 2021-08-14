@@ -9,7 +9,7 @@ One day I started learning software as an enthusiast, and for as long as I can r
 - My website: [ibidi.app](https://ibidi.app)
 - Twitter: [@ibishuu](https://twitter.com/ibishuu)
 
-<a href="https://github.com/Freakcodexrd">
-  <img src="https://github-readme-stats.vercel.app/api?username=Freakcodexrd&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=df761c&text_color=FFFFFF&icon_color=df761c">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freakcodexrd&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
+<a href="https://github.com/Freakcodexd">
+  <img src="https://github-readme-stats.vercel.app/api?username=Freakcodexd&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=df761c&text_color=FFFFFF&icon_color=df761c">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freakcodexd&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
 </a>
