@@ -1,12 +1,16 @@
-### It's me, Freak 👋
+### Hi I'm Freak , <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
-<img src="https://komarev.com/ghpvc/?username=Freakcodexd&label=Profile%20Viewers&color=37fa3f" alt="Freakcodexd" />
-
+<img src="https://komarev.com/ghpvc/?username=Freak-xy&label=Profile%20Viewers&color=0083ff" alt="Freakcodexd" /> <img src="https://img.shields.io/badge/Age-19-blue" /> 
+<img src="https://img.shields.io/badge/Languages-Turkish%20%26%20English-blue" />
+</p>
+<hr>
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/cagatayegeee/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Freakcodexd?tab=repositories) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/_cagatayege_/)
+</p>
+<hr>
 
-<a href="https://github.com/Freakcodexd">
-  <img src="https://github-readme-stats.vercel.app/api?username=Freakcodexd&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=df761c&text_color=FFFFFF&icon_color=df761c">
-</a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853009887318769704?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/853009887318769704)
+</p>
+<hr>
+
