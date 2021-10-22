@@ -9,7 +9,3 @@ One day I started learning software as an enthusiast, and for as long as I can r
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/_cagatayege_/)
 </p>
 <hr>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:853009887318769704)](https://discord.com/users/:853009887318769704)
-</p>
-<hr>
