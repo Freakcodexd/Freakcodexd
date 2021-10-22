@@ -10,7 +10,6 @@ One day I started learning software as an enthusiast, and for as long as I can r
 </p>
 <hr>
 
-[![Discord Presence]([![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:853009887318769704)](https://discord.com/users/:853009887318769704)]
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:853009887318769704)](https://discord.com/users/:853009887318769704)
 </p>
 <hr>
-
