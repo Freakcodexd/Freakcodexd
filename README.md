@@ -1,11 +1,38 @@
-### Hi I'm Freak , <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+# ✨ Hi, I am Freakcodexd
 
-<img src="https://komarev.com/ghpvc/?username=Freak-xy&label=Profile%20Viewers&color=0083ff" alt="Freakcodexd" /> <img src="https://img.shields.io/badge/Age-19-blue" /> 
-<img src="https://img.shields.io/badge/Languages-Turkish%20%26%20English-blue" />
-</p>
-<hr>
-One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
+Website Developer  |  Cyber Security Specialist  |  Discord Bot Developer  |  Designer
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/_cagatayege_/)
-</p>
-<hr>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Freakcodexd&color=dc143c"/>
+</div>
+
+<div align="center">
+    <a href="https://discord.com/users/451059836172501013" title="Discord Profile"> <img src="https://discord.c99.nl/widget/theme-4/451059836172501013.png"></a>
+</div>
+
+## ⚡ Contact
+
+<div align="center">
+    <a href="https://discord.com/users/451059836172501013" target="_blank"><img src="https://shields.io/badge/Freakcodexd-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/Freakcodexd" target="_blank"><img src="https://shields.io/badge/Freakcodexd-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://www.instagram.com/_cagatayege/" target="_blank"><img src="https://shields.io/badge/Instagram-111111.svg?&style=for-the-badge&logo=instagram"></a>
+</div>
+
+## 💻 Technologies I Use
+
+<div align="center">
+    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
+    <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
+    <img alt="Vue.js" align="center" src="https://img.shields.io/badge/-Vue.js-41B883?style=flat-square&logo=vue.js&logoColor=white"/>
+    <img alt="Sass" align="center" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+    <img alt="HTML5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img alt="CSS3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
+</div>
+
+## 📈 Github Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Freakcodexd&show_icons=true&theme=midnight-purple&hide_border=true" width="%100" height="150px">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freakcodexd&show_icons=true&theme=midnight-purple&hide_border=true&layout=compact" width="%100" height="100%">
+</div>
