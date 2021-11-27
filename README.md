@@ -7,13 +7,13 @@ Website Developer  |  Cyber Security Specialist  |  Discord Bot Developer  |  De
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/451059836172501013" title="Discord Profile"> <img src="https://discord.c99.nl/widget/theme-4/451059836172501013.png"></a>
+    <a href="https://discord.com/users/853009887318769704" title="Discord Profile"> <img src="https://discord.c99.nl/widget/theme-4/853009887318769704.png"></a>
 </div>
 
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/451059836172501013" target="_blank"><img src="https://shields.io/badge/Freakcodexd-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/853009887318769704" target="_blank"><img src="https://shields.io/badge/Freakcodexd-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/Freakcodexd" target="_blank"><img src="https://shields.io/badge/Freakcodexd-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://www.instagram.com/_cagatayege/" target="_blank"><img src="https://shields.io/badge/Instagram-111111.svg?&style=for-the-badge&logo=instagram"></a>
 </div>
