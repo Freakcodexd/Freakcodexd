@@ -7,7 +7,7 @@ Website Developer  |  Cyber Security Specialist  |  Discord Bot Developer  |  De
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/853009887318769704" title="Discord Profile"> <img src="https://discord.c99.nl/widget/theme-4/853009887318769704.png"></a>
+    <a href="https://discord.com/users/853009887318769704" title="Discord Profile"> <img src="https://discord.c99.nl/widget/theme-5/853009887318769704.png"></a>
 </div>
 
 ## ⚡ Contact
