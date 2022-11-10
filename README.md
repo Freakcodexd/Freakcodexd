@@ -15,7 +15,7 @@ Website Developer  |  Cyber Security Specialist  |  Discord Bot Developer  |  De
 <div align="center">
     <a href="https://discord.com/users/853009887318769704" target="_blank"><img src="https://shields.io/badge/Freakcodexd-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/Freakcodexd" target="_blank"><img src="https://shields.io/badge/Freakcodexd-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.instagram.com/_cagatayege/" target="_blank"><img src="https://shields.io/badge/Instagram-111111.svg?&style=for-the-badge&logo=instagram"></a>
+    <a href="https://www.instagram.com/cagattayege/" target="_blank"><img src="https://shields.io/badge/Instagram-111111.svg?&style=for-the-badge&logo=instagram"></a>
 </div>
 
 ## 💻 Technologies I Use
